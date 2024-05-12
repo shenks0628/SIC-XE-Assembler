@@ -6,7 +6,7 @@
     - pass1 先建立 SYMTAB (symbol table)
     - pass2 則產生 object program
 - 程式使用方式：
-    - python assembler.py <your *.asm file>
-    - ex. python assembler.py textbooksicxe.asm
+    - ``` python assembler.py <your *.asm file> ```
+    - ex. ``` python assembler.py textbooksicxe.asm ```
 - textbooksicxe.obj 是 textbooksicxe.asm 的 object program
 - sample.obj 是 textbooksicxe.asm 的 object program 參考解答
