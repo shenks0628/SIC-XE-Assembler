@@ -1,4 +1,4 @@
-這個專案在實作 sic/xe 的 assembler，以下為各檔案之概述：
+這個專案在實作 sic/xe 的 assembler，以下為各檔案之概述與使用說明：
 - sicxe.py 內含 OPTAB, DIRECTIVE, registerOP
 - sicxeasmparser.py 內含讀檔的相關操作
 - objfile.py 有輸出至 object file 的各種函式
